@@ -1,4 +1,4 @@
-package com.example.sdkdevlopment
+package com.example.sdkdevelopment
 
 import org.junit.Test
 
