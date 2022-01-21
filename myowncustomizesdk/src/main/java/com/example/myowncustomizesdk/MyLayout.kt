@@ -16,4 +16,8 @@ class MyLayout(context: Context?) : RelativeLayout(context) {
     override fun setPadding(left: Int, top: Int, right: Int, bottom: Int) {
         super.setPadding(left, top, right, bottom)
     }
+
+    override fun setBackgroundColor(color: Int) {
+        super.setBackgroundColor(color)
+    }
 }
